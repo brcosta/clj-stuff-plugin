@@ -1,6 +1,12 @@
 # clojure-extras-plugin Changelog
 
 ## [Unreleased]
+
+## 0.8.3
+- Update Built-in clj-kondo -> v2025.01.16
+- Upgrade plugin for IJ 2025.1
+
+## 0.8.2
 - Fix deserialization failure
 
 ## 0.8.1
